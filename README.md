@@ -1,3 +1,5 @@
+see the project from here: https://farrokhdev.github.io/tours/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
