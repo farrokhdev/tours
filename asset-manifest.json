@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tours/static/css/main.c3be3355.chunk.css",
+    "main.js": "/tours/static/js/main.421fea54.chunk.js",
+    "main.js.map": "/tours/static/js/main.421fea54.chunk.js.map",
+    "runtime-main.js": "/tours/static/js/runtime-main.4b012508.js",
+    "runtime-main.js.map": "/tours/static/js/runtime-main.4b012508.js.map",
+    "static/js/2.b2ca2e81.chunk.js": "/tours/static/js/2.b2ca2e81.chunk.js",
+    "static/js/2.b2ca2e81.chunk.js.map": "/tours/static/js/2.b2ca2e81.chunk.js.map",
+    "index.html": "/tours/index.html",
+    "static/css/main.c3be3355.chunk.css.map": "/tours/static/css/main.c3be3355.chunk.css.map",
+    "static/js/2.b2ca2e81.chunk.js.LICENSE.txt": "/tours/static/js/2.b2ca2e81.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tours/static/media/landmark photography of trees near rocky mountain under blue skies day.c04731b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b012508.js",
+    "static/js/2.b2ca2e81.chunk.js",
+    "static/css/main.c3be3355.chunk.css",
+    "static/js/main.421fea54.chunk.js"
+  ]
+}
